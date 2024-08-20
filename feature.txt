@@ -5,3 +5,5 @@ User1 added this
 User 2 added this file
 Line 6 is added by user2
 Line 7 is added by user2
+User 1 added line 6
+User 1 added line 7

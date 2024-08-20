@@ -1,0 +1,19 @@
+From 7170f0dd2ca5a06d981c57016b58d2343f046f61 Mon Sep 17 00:00:00 2001
+From: AbdullohMaraimov <maraimovabdulloh.laptop2022@gmail.com>
+Date: Tue, 20 Aug 2024 16:56:26 +0500
+Subject: [PATCH] user1 added apple and cherry
+
+---
+ cart.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/cart.txt b/cart.txt
+index e69de29..3990e29 100644
+--- a/cart.txt
++++ b/cart.txt
+@@ -0,0 +1,2 @@
++apple - wash it
++cherry - eat it
+-- 
+2.34.1
+
