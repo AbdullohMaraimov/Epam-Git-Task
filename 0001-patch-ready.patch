@@ -1,0 +1,20 @@
+From de725393e981326c5cc696c1e6fc1f207eda57ef Mon Sep 17 00:00:00 2001
+From: AbdullohMaraimov <maraimovabdulloh.laptop2022@gmail.com>
+Date: Tue, 20 Aug 2024 17:18:46 +0500
+Subject: [PATCH] patch ready
+
+---
+ cart.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/cart.txt b/cart.txt
+index 3990e29..7660485 100644
+--- a/cart.txt
++++ b/cart.txt
+@@ -1,2 +1,3 @@
+ apple - wash it
+ cherry - eat it
++patch - to send
+-- 
+2.34.1
+
