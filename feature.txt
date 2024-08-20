@@ -2,4 +2,4 @@ This is written by user1
 There should be conflict
 This line is added by user2 - now
 User1 added this
-
+User 2 added this file
